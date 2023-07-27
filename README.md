@@ -1,7 +1,8 @@
 # Welcome!
 ## About Me
--My career path started out in my junior year of being at Lakewood Highschool (2017-2018) with a career tech program in the West-Shore district of our campus. I joined Construction Trades and it was a 2 year program for junior and senior year. I got a certification in that and I have been actively in the trades since then doing many different types of work in that industry. Remodeling, painting, woodworking, cabinetry, you name it. 
--I have recently found a new interest in the programming world and I enrolled into CWRU Bootcamp in February of 2023. My passion for technology and building computers made me want to dive into this world of programming and make a change for myself. I am in the final stages of a fast paced Bootcamp through ![EdX Bootcamps](https://img.shields.io/badge/EdX_BootCamps-black
+My career path started out in my junior year of being at Lakewood Highschool (2017-2018) with a career tech program in the West-Shore district of our campus. I joined Construction Trades and it was a 2 year program for junior and senior year. I got a certification in that and I have been actively in the trades since then doing many different types of work in that industry. Remodeling, painting, woodworking, cabinetry, you name it. 
+## Bootcamp
+I have recently found a new interest in the programming world and I enrolled into CWRU Bootcamp in February of 2023. My passion for technology and building computers made me want to dive into this world of programming and make a change for myself. I am in the final stages of a fast paced Bootcamp through ![EdX Bootcamps](https://img.shields.io/badge/EdX_BootCamps-black
 ) and ![Case_Western_Reserve_University](https://img.shields.io/badge/Case_Western_Reserve-blue) and due to complete in the coming weeks.
 
 ## Languages
